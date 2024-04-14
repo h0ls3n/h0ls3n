@@ -12,8 +12,6 @@ a research lab. I am interested in intersectionality and DEI in STEM. My
 hobbies are reading, writing, and photography.
 
 ## Contact
-Holsen B. Moore
-
 school email: holsenmoore@utexas.edu
 
 personal email: hols3nmoore@gmail.com
