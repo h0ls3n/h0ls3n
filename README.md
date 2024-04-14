@@ -1,17 +1,21 @@
-### Hi there 👋
-:)
+# Hi there 👋
 
-<!--
-**h0ls3n/h0ls3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Holsen (he/they). I'm a second-year Biology student in the Genetics
+& Genomics option at the University of Texas at Austin. I'm currently working
+on a research project where I am analyzing the transcriptomes of _Eurycea_
+salamanders. I am pursuing a minor in Philosophy of the Mind and Language.
 
-Here are some ideas to get you started:
+Check out my portfolio repository if you're interested in that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've volunteered with sea turtles in the past and have experience mentoring in
+a research lab. I am interested in intersectionality and DEI in STEM. My
+hobbies are reading, writing, and photography.
+
+## Contact
+Holsen B. Moore
+
+school email: holsenmoore@utexas.edu
+
+personal email: hols3nmoore@gmail.com
+
+LinkedIn: https://linkedin.com/in/holsenm
